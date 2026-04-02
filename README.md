@@ -1,4 +1,5 @@
-Frontend Ecommerce Store
+## Frontend Ecommerce Store
+
 A modern, responsive frontend implementation of an E-commerce platform. This project focuses on the user interface and shopping experience, featuring a clean design and seamless navigation between product listings and checkout flows.
 
 Features
